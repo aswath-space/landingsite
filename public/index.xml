@@ -6,5 +6,23 @@
     <description>Recent content on Aswath Subramanian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 05 Oct 2023 02:43:15 +0200</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/aboutme/</link>
+      <pubDate>Thu, 05 Oct 2023 02:43:01 +0200</pubDate>
+      
+      <guid>/aboutme/</guid>
+      <description>Hello!</description>
+    </item>
+    
   </channel>
 </rss>
