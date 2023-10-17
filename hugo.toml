@@ -1,0 +1,52 @@
+baseURL = '' #Check
+theme = 'hermit-v2'
+
+[languages]
+  [languages.en]
+    title = 'Aswath Subramanian'
+    [languages.en.params]
+      homeSubtitle = "I decarbonize and ask meta questions."
+
+ [[params.social]]
+    name = "x"
+    url = "https://twitter.com/@aswathsubrmani"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/aswath-subramanian/"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:aswath.subramanian@outlook.com"
+
+ [[params.social]]
+    name = "medium"
+    url = "https://www.medium.com"
+
+  [[params.social]]
+    name = "caffine support"
+    url = "https://ko-fi.com/aswath"
+
+
+
+[menu]
+
+  [[menu.main]]
+    name = "About Me"
+    url = "aboutme/"
+    weight = 10
+
+  [[menu.main]]
+    name = "aswaths.space Blog"
+    url = "dfblog.aswaths.space"
+    weight = 20
+
+  [[menu.main]]
+    name = "Finding The Joule"
+    url = "https://medium.com/finding-the-joule"
+    weight = 30
+
+  [[menu.main]]
+    name = "Contact"
+    url = "contact/"
+    weight = 40
