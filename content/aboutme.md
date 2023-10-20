@@ -37,7 +37,7 @@ That is of course, the engineer. The writer's journey was far more turbulent. Th
 
 
 
-## The Conversations I Love
+# The Conversations I am passionate about.
 Here's an example of a typical conversation I love to have: We start by talking about science, jump into the motivations for what makes our minds innovate, try to apply the dimension of emotionality, and how this fits into the overall society. We segue into how the progression of society is underpinned by spirituality, how our inner selves guide our emotions and morality, and how this template drives discipline. Finally, we discuss how all of this culminates into improvement, AKA innovation.
 
 Sounds like something for a few hours, right?
@@ -46,6 +46,13 @@ Here's one more: We look through a nice research paper, or a few news articles t
 
 Think about it, every time you start this conversation, you ALWAYS end up learning something more than you did before. And that is what I love, at the end - Incrementally getting better. 
 
+Of course, that is not to say that I would only want super-serious conversations every single time. Sometimes, I equally find pleasure (guiltily so) in just *talking*. No grand purpose, just two or three people exchanging just about anything.
+
+Also, *psst*, if you want to share your good feelings about Webtoons and manga, you know where to find me.
+
 
 
 ---
+
+# The things I do in free time
+Outside of what I already mentioned above, you can also find me writing, or waving my legs in the air as I train my taekwondo, or any other skill I might pick up in future. Slightly less common, I also try to come up with single-pot recipes for lazy cooking. If I am not doing any of the above, you can bet your four mugs of coffee I am not watching anime. Then lose that bet and send it my way.
