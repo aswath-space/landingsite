@@ -51,4 +51,4 @@ theme = 'hermit-v2'
     url = "contact/"
     weight = 40
 
- footerCopyright = none
+ footerCopyright = "Aswath Subramanian"
