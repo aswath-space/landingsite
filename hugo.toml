@@ -21,7 +21,7 @@ theme = 'hermit-v2'
 
  [[params.social]]
     name = "medium"
-    url = "https://www.medium.com"
+    url = "https://www.medium.com/@aswath.subramanian"
 
   [[params.social]]
     name = "caffine support"
@@ -38,7 +38,7 @@ theme = 'hermit-v2'
 
   [[menu.main]]
     name = "aswaths.space Blog"
-    url = "dfblog.aswaths.space"
+    url = "https://aswath-space.github.io/blog"
     weight = 20
 
   [[menu.main]]
@@ -50,3 +50,5 @@ theme = 'hermit-v2'
     name = "Contact"
     url = "contact/"
     weight = 40
+
+ footerCopyright = "Aswath Subramanian"
