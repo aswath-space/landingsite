@@ -50,3 +50,5 @@ theme = 'hermit-v2'
     name = "Contact"
     url = "contact/"
     weight = 40
+
+ footerCopyright = none
