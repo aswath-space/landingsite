@@ -23,7 +23,7 @@ That is of course, the engineer. The writer's journey was far more turbulent. Th
 
 
 
-# [My timeline](https://nl.linkedin.com/in/aswath-subramanian) - Professional and Academic
+# [My timeline](https://nl.linkedin.com/in/aswath-subramanian) - Professional and Academic.
 
 | **Period**        | **Role**                             | **Organization**                    |
 |-------------------|--------------------------------------|-------------------------------------|
@@ -54,5 +54,5 @@ Also, *psst*, if you want to share your good feelings about Webtoons and manga, 
 
 ---
 
-# The things I do in free time
+# The things I do in free time.
 Outside of what I already mentioned above, you can also find me writing, or waving my legs in the air as I train my taekwondo, or any other skill I might pick up in future. Slightly less common, I also try to come up with single-pot recipes for lazy cooking. If I am not doing any of the above, you can bet your four mugs of coffee I am not watching anime. Then lose that bet and send it my way.
