@@ -18,7 +18,7 @@ That is of course, the engineer. The writer's journey was far more turbulent. Th
 <br>
 
 # [My timeline](https://nl.linkedin.com/in/aswath-subramanian) - Professional and Academic
----
+<hr>
 
 | **Period**        | **Role**                             | **Organization**                    |
 |-------------------|--------------------------------------|-------------------------------------|
@@ -31,7 +31,7 @@ That is of course, the engineer. The writer's journey was far more turbulent. Th
 <br>
 
 ## The Conversations I Love
----
+<hr>
 
 Here's an example of a typical conversation I love to have: We start by talking about science, jump into the motivations for what makes our minds innovate, try to apply the dimension of emotionality, and how this fits into the overall society. We segue into how the progression of society is underpinned by spirituality, how our inner selves guide our emotions and morality, and how this template drives discipline. Finally, we discuss how all of this culminates into improvement, AKA innovation.
 
@@ -41,8 +41,7 @@ Here's one more: We look through a nice research paper, or a few news articles t
 
 Think about it, every time you start this conversation, you ALWAYS end up learning somethnig more than you did before. And that is what I love, at the end - Incrementally getting better. 
 
-<br>
-<br>
----
-<br>
----
+
+<hr>
+<hr>
+_____________________________________________
