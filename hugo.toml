@@ -7,7 +7,11 @@ theme = 'hermit-v2'
     [languages.en.params]
       homeSubtitle = "I decarbonize and ask meta questions."
 
- [[params.social]]
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/aswath_s.mani/"
+
+  [[params.social]]
     name = "x"
     url = "https://twitter.com/@aswathsubrmani"
 
@@ -45,10 +49,5 @@ theme = 'hermit-v2'
     name = "Finding The Joule"
     url = "https://medium.com/finding-the-joule"
     weight = 30
-
-  [[menu.main]]
-    name = "Contact"
-    url = "contact/"
-    weight = 40
 
  footerCopyright = "Aswath Subramanian"
