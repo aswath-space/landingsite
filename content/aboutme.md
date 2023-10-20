@@ -44,7 +44,7 @@ Sounds like something for a few hours, right?
 
 Here's one more: We look through a nice research paper, or a few news articles that talk about "Future of Energy" and argue (very diplomatically, of course) the economies of scale of adaptation of new energy technologies, the ways of making it happen, and the limitations, prerequisites - Your typical Thursday talk.
 
-Think about it, every time you start this conversation, you ALWAYS end up learning somethnig more than you did before. And that is what I love, at the end - Incrementally getting better. 
+Think about it, every time you start this conversation, you ALWAYS end up learning something more than you did before. And that is what I love, at the end - Incrementally getting better. 
 
 
 
