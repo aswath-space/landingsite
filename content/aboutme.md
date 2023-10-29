@@ -4,6 +4,7 @@ date = 2023-10-05T02:43:01+02:00
 draft = false
 +++
 
+[This is me](aswath.jpg)
 # Hi! I'm Aswath - The enginee-writer in search of the big picture.
 He who fights global warming one rooftop an hour, and may or may not be a writer in secret. I am excited that you are here, and I would love for you to journey with me into a universe where a bit of everything intersects with a bit of everything else - Science, spirituality, society, sustainability... 
 
